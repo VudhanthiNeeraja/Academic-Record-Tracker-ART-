@@ -1,4 +1,5 @@
-# Student-Record-Management-System
+# Academic Record Tracker (ART)
+
 The objective of the Student Record Management System is to help in maintenance and management of student records. The Project contains Admin side and Student side. 
 In this project all the functions has to be performed from Admin side.
 
